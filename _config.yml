@@ -1,0 +1,28 @@
+name: Jay_Ornelas
+favicon: null
+layout_spectrum: 0.3406083646696061
+typography_spectrum: 0.3195914588868618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.12251855665817857
+  lightness: 0.9940267836209387
+  saturation: 0.18823662213981152
+  rhythmicContrast: 0.10404521808959544
+purpose: []
